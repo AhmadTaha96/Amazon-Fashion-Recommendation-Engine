@@ -65,43 +65,43 @@ The Data is taken from Amazon advertising api for women's tops, the dataset cons
 
 The features or columns are:
 
-1. asin
+* asin
 
-2. author 
+* author 
 
-3. availability
+* availability
 
-4. availability_type
+* availability_type
 
-5. brand
+* brand
 
-6. color
+* color
 
-7. editorial_reivew
+* editorial_reivew
 
-8. editorial_review
+* editorial_review
 
-9. formatted_price
+* formatted_price
 
-10. large_image_url
+* large_image_url
 
-11. manufacturer
+* manufacturer
 
-12. medium_image_url
+* medium_image_url
 
-13. model
+* model
 
-14. product_type_name
+* product_type_name
 
-15. publisher
+* publisher
 
-16. reviews 
+* reviews 
 
-17. sku
+* sku
 
-18. small_image_url
+* small_image_url
 
-19. title
+* title
 
 
 
@@ -113,18 +113,18 @@ The features or columns are:
 Out of the previous features we shall only consider using 6 or 7 features as follows:
 
 
-1. Asin -------------------------------> Amazon standard identification number.
+* Asin -------------------------------> Amazon standard identification number.
 
-2. Brand ------------------------------> brand of the product.
+* Brand ------------------------------> brand of the product.
 
-3. Color ------------------------------> Color information of apparel, it can contain many single or many colors as red and black stripes or None.
+* Color ------------------------------> Color information of apparel, it can contain many single or many colors as red and black stripes or None.
 
-4. Product_type_name ------------------------------> type of the product like SHIRT/TSHIRT.
+* Product_type_name ------------------------------> type of the product like SHIRT/TSHIRT.
 
-5. Large_image_url ------------------------------> url of the image in large size.
+* Large_image_url ------------------------------> url of the image in large size.
 
-6. Title ------------------------------> title of the product.
+* Title ------------------------------> title of the product.
 
-7. Formatted_price ------------------------------> price of the product
+* Formatted_price ------------------------------> price of the product
 
-8. Manufacter ------------------------------> manufacter the product belong to.
+* Manufacter ------------------------------> manufacter the product belong to.
