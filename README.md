@@ -131,14 +131,6 @@ Out of the previous features we shall only consider using 6 or 7 features as fol
 
 *******************************************
 
-### Data Source
-
-To Download all pickle and image files:
-
-https://mega.nz/folder/lshC3SRR#iFBEZKtWfVbULKU-ptQnfQ
-
-********************************************
-
 ### Further Improvments
 
 1.   You can include another feature like price and get only similar products in specific range of price.
@@ -150,3 +142,11 @@ https://mega.nz/folder/lshC3SRR#iFBEZKtWfVbULKU-ptQnfQ
 4. Train Word2Vec on the corpus we have rather than using Google News model.
 
 5. Try to use unsuprvised algorithm like K-Medoids / K-Means or DBSCAN to gather similar product togeather.
+
+********************************************
+
+### Data Source
+
+To Download all pickle and image files:
+
+https://mega.nz/folder/lshC3SRR#iFBEZKtWfVbULKU-ptQnfQ
