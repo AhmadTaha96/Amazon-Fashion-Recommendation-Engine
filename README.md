@@ -133,7 +133,8 @@ Out of the previous features we shall only consider using 6 or 7 features as fol
 
 ### Data Source
 
-To Download all picle and images files:
+To Download all pickle and image files:
+
 https://mega.nz/folder/lshC3SRR#iFBEZKtWfVbULKU-ptQnfQ
 
 ********************************************
