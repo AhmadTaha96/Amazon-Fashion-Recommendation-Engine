@@ -128,3 +128,24 @@ Out of the previous features we shall only consider using 6 or 7 features as fol
 * Formatted_price ------------------------------> price of the product
 
 * Manufacter ------------------------------> manufacter the product belong to.
+
+*******************************************
+
+### Data Source
+
+To Download all picle and images files:
+https://mega.nz/folder/lshC3SRR#iFBEZKtWfVbULKU-ptQnfQ
+
+********************************************
+
+### Further Improvments
+
+1.   You can include another feature like price and get only similar products in specific range of price.
+
+2.   Include color feature to prefere similar products with same color or similar product only.
+
+3. Train CNN Model rather than using Transfer Learning.
+
+4. Train Word2Vec on the corpus we have rather than using Google News model.
+
+5. Try to use unsuprvised algorithm like K-Medoids / K-Means or DBSCAN to gather similar product togeather.
